@@ -3,19 +3,19 @@
   padding-bottom: 4rem;
 }
 .client__avatar {
-  width: 4rem;
+  width: 5rem;
   aspect-ratio: 1/1;
   overflow: hidden;
   border-radius: 50%;
   margin: 0 auto 1rem;
-  border: 0.4rem solid var(--color-primary);
+  border: 0.27rem solid var(--color-primary);
 }
 
 .testimonials {
   background: var(--color-bg-variant);
   text-align: center;
   padding: 2rem;
-  border-radius: 2rem;
+  border-radius: 6px;
   user-select: none; /* to not allow user to select the text */
 }
 

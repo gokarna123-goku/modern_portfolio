@@ -88,7 +88,7 @@ a:hover {
   display: inline-block;
   color: var(--color-primary);
   padding: 0.50rem 1.55rem;
-  border-radius: 0.4rem;
+  border-radius: 4px;
   cursor: pointer;
   border: 1px solid var(--color-primary);
   transition: var(--transition);
