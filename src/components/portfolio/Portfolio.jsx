@@ -10,15 +10,15 @@ import IMG6 from "../../assets/portfolio6.jpg";
 const Portfolio = () => {
   return (
     <section id="portfolio">
-      <h5>What I Offer</h5>
-      <h2>Services</h2>
+      <h5>What I Developed</h5>
+      <h2>Portfolios</h2>
 
       <div className="container portfolio__container">
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>E-Commerce Web Development</h3>
 
           <div className="portfolio__item-cta">
             <div>
@@ -39,7 +39,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>E-Commerce App Development</h3>
           <div className="portfolio__item-cta">
             <a href="#" className="btn">
               Github
@@ -54,7 +54,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>E-Commerce Web Development</h3>
           <div className="portfolio__item-cta">
             <a href="#" className="btn">
               Github
@@ -69,7 +69,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG4} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>E-Commerce App Development</h3>
           <div className="portfolio__item-cta">
             <a href="#" className="btn">
               Github
@@ -84,7 +84,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG5} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>E-Commerce Web Development</h3>
           <div className="portfolio__item-cta">
             <a href="#" className="btn">
               Github
@@ -99,7 +99,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG6} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>E-Commerce App Development</h3>
           <div className="portfolio__item-cta">
             <a href="#" className="btn">
               Github

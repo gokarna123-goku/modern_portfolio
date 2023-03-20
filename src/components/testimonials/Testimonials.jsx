@@ -17,25 +17,25 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    name: "Ernest Achiever",
+    name: "Gokarna Adhikari",
     review:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus at adipisci illo voluptatibus ex alias porro excepturi ad ratione aut,eveniet quidem est totam modi aperiam exercitationem inventore? Quod, animi."
   },
   {
     avatar: AVTR2,
-    name: "Ernest Achiever",
+    name: "Gokarna Adhikari",
     review:
       "Lorem ipsum dolor sit amet consecteturex alias porro excepturi ad ratione aut,eveniet quidem est totam modi aperiam exercitationem inventore? Quod, animi."
   },
   {
     avatar: AVTR3,
-    name: "Ernest Achiever",
+    name: "Gokarna Adhikari",
     review:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus at adipisci illo voluptatibus ex alias porro excepturi ad ratione aut,eveniet quidem est totam modi aperiam exercitationem inventore? Quod, animi."
   },
   {
     avatar: AVTR4,
-    name: "Ernest Achiever",
+    name: "Gokarna Adhikari",
     review:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus at adipisci illo voluptatibus ex alias porro excepturi ad ratione aut,eveniet quidem est totam modi aperiam exercitationem inventore? Quod, animi."
   }
