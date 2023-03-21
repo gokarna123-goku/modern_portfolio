@@ -1,8 +1,8 @@
 footer {
-  background: var(--color-primary);
+  background: var(--color-primary-variant);
   padding: 3rem 0;
   text-align: center;
-  font-size: 0.9rem;
+  font-size: 0.9rem; 
   margin-top: 7rem;
 }
 footer a {
