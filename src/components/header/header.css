@@ -42,6 +42,10 @@ header {
   height: 30rem;
   position: absolute;
   left: calc(50% - 11rem);
+  /* -webkit-clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%);
+  clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%); */
+  -webkit-clip-path: polygon(48% 6%, 87% 21%, 100% 60%, 86% 100%, 13% 100%, 0% 60%, 12% 21%);
+  clip-path: polygon(48% 6%, 87% 21%, 100% 60%, 86% 100%, 13% 100%, 0% 60%, 12% 21%);
   /* or
   left: 50%;
   transform: translateX(-50%); */
