@@ -23,7 +23,13 @@ footer a {
   gap: 2rem;
   margin: 0 auto 3rem;
 }
-
+.permalinks li a{
+  color: var(--color-light);
+  transition: 0.5s ease-out;
+}
+.permalinks li a:hover{
+  color: var(--color-bg);
+}
 .footer__socials {
   display: flex;
   justify-content: center;
